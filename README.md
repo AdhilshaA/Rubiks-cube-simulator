@@ -16,5 +16,5 @@ Basics of the game:
 
 To run the game:
 - Download the repository.
-- Run the file 'rubiks_v1.py' in a Python environment.
+- Run the file '`rubiks_v1.py`' in a Python environment.
 - The main involved packages are `OpenGL`, `pygame` and `numpy`. Make sure they are installed.
