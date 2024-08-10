@@ -3,7 +3,6 @@ import pygame
 
 from pygame.locals import *
 import os
-import time
 from OpenGL.GL import *
 from OpenGL.GLU import *
 
